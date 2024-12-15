@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(51, 196, 116);
+}
+
+ header a{
+    color:OliveDrab;
+    text-decoration: none;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid DarkSeaGreen;
+    margin: 10px;
+    background-color:rgb(182, 248, 193);
+}
+
+h1{ 
+    text-align: center;
+    color:LightGreen;
+    background-color:rgb(51, 196, 140);
+}
+
+header{
+    height: auto;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+h2{
+    background-color:rgb(51, 196, 140);
+    color:PaleGreen;
+}
+
+img{
+    width:700px;
+}
+
+p{
+    color:rgb(30, 117, 68);
+    font-size: 20;
+}
